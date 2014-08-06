@@ -1,9 +1,15 @@
 <% provide(:title, 'home') %>
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>RoR | <%= yield(:title) %></title>
+</head>
+<body>
 <h1>Sample App</h1>
 <p>
 This is the home page
 <a href="http://railstutorial.org/">Ruby on Rails</a>
 sample application.
 Find me in app/views/static_pages/home.html.erb</p>
-
+</bodys>
+</html>
