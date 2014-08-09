@@ -102,8 +102,13 @@ GEM
       rspec-expectations (~> 2.13.0)
       rspec-mocks (~> 2.13.0)
     rubyzip (0.9.9)
+<<<<<<< HEAD
     sass (3.2.19)
     sass-rails (4.0.3)
+=======
+    sass (3.3.14)
+    sass-rails (4.0.1)
+>>>>>>> filling-in-layout
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.2.0)
       sprockets (~> 2.8, <= 2.11.0)
